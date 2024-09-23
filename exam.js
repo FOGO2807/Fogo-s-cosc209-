@@ -45,6 +45,6 @@ class Person {
   console.log(message);
   
   //Example of Spread Operator
-  let array1 = [1, 2, 3];
-  let array2 = [...arr1, 4, 5, 6];
+  let array11 = [1, 2, 3];
+  let array23 = [...arr1, 4, 5, 6];
   console.log(arr2); 
